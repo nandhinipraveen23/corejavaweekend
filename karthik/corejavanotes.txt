@@ -1,0 +1,144 @@
+Identifires
+datatypes
+operators
+
+
+Identifires
+
+it is a name.
+it can be a variables name, class names, interface name, method name etc.,
+
+when we create a class needs to follow the naming convetion.
+
+first letter shud be caps
+if the class name contains morethan one word each word  of the first letter shud be caps
+
+
+
+1. it shud be meaningfull
+
+Rules:
+
+1. A to Z or a to z ,0 to 9,_,$. long sequence of characters 
+2. it must begin with a alphabet, $ or _ 
+3. The first letter of an identifier cannot be a digit, _(alone) they introduced (_) as a keyword.
+4. Identifiers cannot be a keyword
+5. Identifiers are case-sensitive
+
+
+Caps Identirfiers:
+if its constant (PI)
+team size = 5 (SIZE)
+
+variable naming convention:
+
+if its one word all are lowercase.
+if variable contains morethan one word,
+except first word each word of the first letter shud be caps 
+
+
+
+
+keywords:
+
+1.public 
+2.private
+3.protected 
+4.abstract
+5.class
+6.extends
+7.final
+8.implements
+9.interface
+10.native 
+11.new
+12.static
+13.strictfp
+14.synchronized
+15.transient
+16.volatile  
+17.break
+18.case
+19.continue
+20.default
+21.do
+22.else
+23.for
+24.if
+25.instanceof
+26.return
+27.switch
+28.while 
+29.import
+30.package  
+31.boolean
+32.byte
+33.char
+34.double
+35.float
+36.int
+37.long
+38.short
+39.assert
+40.catch
+41.finally
+42.throw
+43.throws
+44.try
+45.enum  
+46.super
+47.this
+48.void
+
+Unused− 49.const, 50.goto 
+
+51.true
+52.false
+53.null
+
+
+Datatype:
+integeral:whole numbers (34.3no) 34,2,1
+		 Size
+1. byte  - 	1 byte  (-128 to 127)
+2. short - 	2 bytes (-32,768 to 32,767)
+3. int	 - 	4 bytes (-2,147,483,648 to 2,147,483,647)
+4. long	 - 	8 bytes (-9,223,372,036,854,775,808 to 9,223,372,036,854,775,807)
+
+
+
+ex: byte
+d=129 -128 (diff 1)
+   1  -128 (res -127) check within the byte range
+---------------------------
+a=230 - 128 (diff 102)
+  102 - 128 (res -26) check within the byte range
+================================================
+b=789 -128 (diff  661)
+  661 -128 (res 533)  check within the byte range, it's not within the range
+
+533 - 128 (diff 405)
+405 -128 (res 277) check within the byte range, it's not within the range
+
+277 - 128 (diff 149)
+149 -128 (res 21)check within the byte range
+
+======================
+a=32768 -32768 (diff 0)
+0 	-32768 (res -32,768)
+------------------
+a= 312443 - 32768 (diff 279,675)
+
+==================================
+
+
+Deciaml
+5. float (2.3434)(6 to 7digits)
+6. double (45.56564534534535345)(morethan 7 digit)
+7. char (alpha, symbols, number(internally it will store as a alpha))
+8. boolean (true, false)
+
+  
+
+
+
