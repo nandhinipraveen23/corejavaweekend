@@ -1,0 +1,32 @@
+Arithmetic operators
+Assignment operators
+Comparison operators
+Logical operators
+Bitwise operators
+
+
+
+=========================
+Arithmetic operators
+
++,-,*,/,%
+
+Assignment operators
++=,-=,*=,/=,%=
+==============================
+
+Comparison operators
+=,==,!=, <,<=,>,>=
+=============================
+Logical operators
+
+&& (and)
+
+|| (or)
+=====================
+
+work:
+long mymobilenumber=1234567891
+enter ur mobile number: 1234567891
+
+check the given numbers

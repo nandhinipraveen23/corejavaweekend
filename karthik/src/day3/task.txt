@@ -1,0 +1,25 @@
+actual username=sample
+actual password=1111
+================================
+enter ur username: karthik
+enter ur password: 123
+
+o/p both uname and pword wrong
+===================================
+
+enter ur username: sample
+enter ur password: 123
+
+o/p     pword wrong
+=================================
+enter ur username: karthik
+enter ur password: 1111
+
+o/p     uname wrong
+=================================
+
+enter ur username: sample
+enter ur password: 1111
+
+o/p    welcome
+=================================

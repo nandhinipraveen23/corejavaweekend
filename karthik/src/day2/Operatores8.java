@@ -14,7 +14,7 @@ public class Operatores8 {
 		byte age,weight;
 		 boolean d;
 		 System.out.println("Enter the age: ");
-		 age =read.nextByte();
+		 age = read.nextByte();
 		 System.out.println("Enter the weight: ");
 		 weight = read.nextByte(); 
 		 
